@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-06-27",
+      "build-date": "2024-08-03",
       "codified-date": "0001-01-01",
       "platform": {
         "reproducible": "false",
@@ -9,7 +9,7 @@
       },
       "repositories": [
         {
-          "commit": "f2df86a69b53935d03fd1f7e1e67d4dfef10d87a",
+          "commit": "6f15077209bdb191d72aea64569398bfacc0e77d",
           "name": "law-xml"
         }
       ]
