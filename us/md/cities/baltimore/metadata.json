@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-09-06",
-      "codified-date": "0001-01-01",
+      "build-date": "2024-09-24",
+      "codified-date": "2025-03-09",
       "platform": {
         "reproducible": "false",
         "version": "2.14.0"
       },
       "repositories": [
         {
-          "commit": "04f655dcb550e26b14774f72d989ffeb97366b83",
+          "commit": "b260b8b9a60da30a5313620edba02a656cd47c31",
           "name": "law-xml"
         }
       ]
     },
     "canonical-urls": {
-      "html": "",
+      "html": "https://codes.baltimorecity.gov",
       "html-bulk": "https://github.com/baltimore-legref/law-html",
       "static-assets": "https://github.com/baltimore-legref/law-static-assets",
       "xml-bulk": "https://github.com/baltimore-legref/law-xml"
