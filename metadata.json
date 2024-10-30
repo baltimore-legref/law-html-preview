@@ -1,15 +1,15 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-09-06",
-      "codified-date": "0001-01-01",
+      "build-date": "2024-10-30",
+      "codified-date": "2025-03-09",
       "platform": {
         "reproducible": "false",
-        "version": "2.14.0"
+        "version": "2.14.5"
       },
       "repositories": [
         {
-          "commit": "04f655dcb550e26b14774f72d989ffeb97366b83",
+          "commit": "fc3b808d787ae93ba07fb9e264ef15fd38a09538",
           "name": "law-xml"
         }
       ]
