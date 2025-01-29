@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-01-27",
+      "codified-date": "2026-01-01",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.14.5"
+      },
+      "repositories": [
+        {
+          "commit": "9a97478c7f5eea9295cdfde4b176a8e5d4d88ede",
+          "name": "baltimore-legref/law-xml"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/baltimore-legref/law-html",
+      "static-assets": "https://github.com/baltimore-legref/law-static-assets",
+      "xml-bulk": "https://github.com/baltimore-legref/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": ""
+  }
+}
