@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-06-25",
-      "ci-build-number": "1.0.31",
+      "build-date": "2025-07-07",
+      "ci-build-number": "1.0.32",
       "ci-project": "baltimore-legref/law-xml",
       "codified-date": "2026-01-01",
       "platform": {
         "reproducible": "false",
-        "version": "2.16.2"
+        "version": "2.16.3"
       },
       "repositories": [
         {
-          "commit": "a4d0e062addce6a7da68b003d7bead85e94fac03",
+          "commit": "97be06d1d39c41de207f5392d985f820a224909e",
           "name": "baltimore-legref/law-xml"
         },
         {
-          "commit": "728e9b1598003b876db8f640597123c51ed4b564",
+          "commit": "8d44e2b8f43e73c8d00630955c142d0dc3a3a56a",
           "name": "baltimore-legref/law-xml-codified-preview"
         }
       ],
