@@ -266,7 +266,7 @@ class RequestHandler(SimpleHTTPRequestHandler):
         path_ext = path.rsplit('.', 1)
         html_path = path + '.html'
 
-        if path.endswith('.pdf'):
+        if path.endswith('.pdf') and not path.endswith('AM-101-1-1.pdf'):
             return os.path.join(self.server.law_docs_path, os.path.relpath(path, DIR))
         elif len(path_ext) > 1 and path_ext[1] in filetypes:
             if os.path.isfile(path):
