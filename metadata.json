@@ -5,7 +5,7 @@
       "codified-date": "2026-09-15",
       "platform": {
         "reproducible": "false",
-        "version": "2.18.15.dev556"
+        "version": "2.18.16.dev592"
       },
       "repositories": [
         {
@@ -13,7 +13,7 @@
           "name": "baltimore-legref/law-xml"
         },
         {
-          "commit": "783d849196319860e324ff0dbfea3d2854316d86",
+          "commit": "7ef8410251efd172019f2e5f629869e3714410fb",
           "name": "baltimore-legref/law-xml-codified-preview"
         }
       ],
