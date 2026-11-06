@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "a4cc2724187c25bab272f61c20c97aa6d2a47bc2",
+          "commit": "8fbecf74fef3c6c8be39d8335e93133d140305dc",
           "name": "baltimore-legref/law-xml"
         },
         {
-          "commit": "88399372cbf0df8cd8f3d50424a8a2e17d80a2da",
+          "commit": "00179565f412f61778d1eef44afd0b70b0299116",
           "name": "baltimore-legref/law-xml-codified-preview"
         }
       ],
